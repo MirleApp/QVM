@@ -1,0 +1,185 @@
+<svg id="bba80ac6-4f23-4676-b164-f31b169d56a2" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 887 296">
+  <defs>
+    <style>
+      .a9ee986a-b0c5-4c57-b639-710bf051abd3 {
+        fill: #43d1a1;
+      }
+
+      .f358b07b-ee4d-416c-8375-ebbf0b95fbc7 {
+        fill: #30d1ff;
+      }
+
+      .fc4233f6-07c1-44c6-9e93-bbd902bdea79 {
+        fill: #ff126d;
+      }
+
+      .a80b81df-e056-46ea-893b-cb5d8b50efba, .adebc6ba-1007-49ea-af7d-e515c1405b70, .af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7, .b6bf08f6-c832-4611-a7d6-5feaabd29378, .bbe47b96-85a2-4bc0-a347-9260e09a41d4 {
+        fill: #fff;
+      }
+
+      .a3ccf130-c90a-4bbb-8280-70fbb8d6fd12, .ab493b6e-4f16-44ba-b62f-6b2f0ea2e3bb, .b16cd3ef-eef2-4147-b49a-12e8b8008a81, .b2856462-8b80-4cca-9d4c-7aef3f42557d, .bc5adc2c-a0e7-4105-b92d-0cf90699064b {
+        fill: none;
+        stroke-miterlimit: 10;
+        stroke-width: 2.83px;
+      }
+
+      .a3ccf130-c90a-4bbb-8280-70fbb8d6fd12, .b16cd3ef-eef2-4147-b49a-12e8b8008a81 {
+        stroke: #fdbf2e;
+      }
+
+      .b16cd3ef-eef2-4147-b49a-12e8b8008a81 {
+        stroke-dasharray: 11.48 11.48;
+      }
+
+      .b2856462-8b80-4cca-9d4c-7aef3f42557d, .bc5adc2c-a0e7-4105-b92d-0cf90699064b {
+        stroke: #bcbcbc;
+      }
+
+      .bc5adc2c-a0e7-4105-b92d-0cf90699064b {
+        stroke-dasharray: 10.98 10.98;
+      }
+
+      .e615320e-3cfc-4690-b82d-5e5ffc8401e3 {
+        fill: url(#a313ba4b-68b3-4f16-bb7c-4476b2a5e046);
+      }
+
+      .b5be597e-45c3-4e2c-acbf-65a4636549da {
+        fill: #40a7e1;
+      }
+
+      .b87b7d46-2364-4fb2-bdd3-f3f770f7902f {
+        fill: #fdbf2e;
+      }
+
+      .a44091f7-9494-4627-bca5-29cd590bac6b {
+        fill: url(#ac1c49b1-16c4-4f47-beea-6cbc2a46bb4e);
+      }
+
+      .a80b81df-e056-46ea-893b-cb5d8b50efba {
+        writing-mode: tb;
+        text-orientation: upright;
+        glyph-orientation-vertical: 0deg;
+        letter-spacing: 0.26em;
+      }
+
+      .a80b81df-e056-46ea-893b-cb5d8b50efba, .adebc6ba-1007-49ea-af7d-e515c1405b70, .b6bf08f6-c832-4611-a7d6-5feaabd29378, .bbe47b96-85a2-4bc0-a347-9260e09a41d4 {
+        font-size: 12px;
+      }
+
+      .a80b81df-e056-46ea-893b-cb5d8b50efba, .b42a4396-8347-426d-ab8e-c5853f526a5f, .bbe47b96-85a2-4bc0-a347-9260e09a41d4 {
+        font-family: PingFangTC-Semibold-B5pc-H, PingFang TC;
+      }
+
+      .ab493b6e-4f16-44ba-b62f-6b2f0ea2e3bb {
+        stroke: #ff126d;
+      }
+
+      .b6bf08f6-c832-4611-a7d6-5feaabd29378, .e24eeb52-e727-47cf-99ae-ed48c8b23721 {
+        font-family: PingFangTC-Light-B5pc-H, PingFang TC;
+      }
+
+      .ab1e74b2-4d67-45e0-b7bd-70b576bd2feb {
+        fill: #9ed442;
+      }
+
+      .adebc6ba-1007-49ea-af7d-e515c1405b70 {
+        font-family: PingFangTC-Regular-B5pc-H, PingFang TC;
+      }
+    </style>
+    <linearGradient id="a313ba4b-68b3-4f16-bb7c-4476b2a5e046" x1="588.99" y1="83.97" x2="589.03" y2="192.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#40a7e1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="ac1c49b1-16c4-4f47-beea-6cbc2a46bb4e" x1="317" y1="83.97" x2="317" y2="192.44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ff126d"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <title>miqvm</title>
+  <rect class="a9ee986a-b0c5-4c57-b639-710bf051abd3" x="761" y="4.97" width="125" height="145" rx="10.8"/>
+  <path class="f358b07b-ee4d-416c-8375-ebbf0b95fbc7" d="M741,8.61c.52,1,.18,1.29-.76.7L738,7.92a3.78,3.78,0,0,0-3.45-.08l-2.76,1.55c-1,.54-1.31.19-.79-.78l4-7.5c.52-1,1.38-1,1.9,0Z"/>
+  <rect class="f358b07b-ee4d-416c-8375-ebbf0b95fbc7" x="733.87" y="4.97" width="4.25" height="256"/>
+  <path class="fc4233f6-07c1-44c6-9e93-bbd902bdea79" d="M175,8.61c.52,1,.18,1.29-.76.7L172,7.92a3.78,3.78,0,0,0-3.45-.08l-2.76,1.55c-1,.54-1.31.19-.79-.78l4.05-7.5c.52-1,1.38-1,1.9,0Z"/>
+  <rect class="fc4233f6-07c1-44c6-9e93-bbd902bdea79" x="167.87" y="4.97" width="4.25" height="256"/>
+  <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M719.07,271.67c-1,.53-1.29.19-.71-.75l1.4-2.24a3.75,3.75,0,0,0,.07-3.45l-1.54-2.76c-.54-1-.19-1.32.78-.79l7.49,4c1,.53,1,1.38,0,1.91Z"/>
+  <rect class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" x="466.71" y="264.55" width="256" height="4.25"/>
+  <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M435.07,271.67c-1,.53-1.29.19-.71-.75l1.4-2.24a3.75,3.75,0,0,0,.07-3.45l-1.54-2.76c-.54-1-.19-1.32.78-.79l7.49,4c1,.53,1,1.38,0,1.91Z"/>
+  <rect class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" x="182.71" y="264.55" width="256" height="4.25"/>
+  <g>
+    <line class="a3ccf130-c90a-4bbb-8280-70fbb8d6fd12" x1="168.02" y1="81.14" x2="173.69" y2="81.14"/>
+    <line class="b16cd3ef-eef2-4147-b49a-12e8b8008a81" x1="185.18" y1="81.13" x2="730.61" y2="80.8"/>
+    <line class="a3ccf130-c90a-4bbb-8280-70fbb8d6fd12" x1="736.35" y1="80.8" x2="742.02" y2="80.79"/>
+  </g>
+  <path class="f358b07b-ee4d-416c-8375-ebbf0b95fbc7" d="M483.51,226.3l-.44-2.8c102.39-16.13,189-86.44,226-183.49l2.65,1A293.93,293.93,0,0,1,483.51,226.3Z"/>
+  <g>
+    <line class="b2856462-8b80-4cca-9d4c-7aef3f42557d" x1="589" y1="54.47" x2="589" y2="60.14"/>
+    <line class="bc5adc2c-a0e7-4105-b92d-0cf90699064b" x1="589" y1="71.12" x2="589" y2="241.31"/>
+    <line class="b2856462-8b80-4cca-9d4c-7aef3f42557d" x1="589" y1="246.8" x2="589" y2="252.47"/>
+  </g>
+  <path class="e615320e-3cfc-4690-b82d-5e5ffc8401e3" d="M594.75,192.44a6.42,6.42,0,0,0,6.4-6.39V113.42a6.41,6.41,0,0,1,6.39-6.39h.79c3.51,0,4.36-2,1.87-4.52L593.52,85.83a6.42,6.42,0,0,0-9,0L567.8,102.51c-2.49,2.49-1.64,4.52,1.87,4.52h.79a6.41,6.41,0,0,1,6.39,6.39v72.63a6.42,6.42,0,0,0,6.4,6.39Z"/>
+  <g>
+    <rect class="b5be597e-45c3-4e2c-acbf-65a4636549da" x="562.92" y="128.25" width="52.16" height="14.43" rx="6.5"/>
+    <g>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M570.91,132.45h.86l1.21,4.21h0l1.22-4.21h.86L573.31,138h-.63Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M575.79,132.45h.76l1.54,3.6,1.51-3.6h.76V138h-.81v-3.45h0l-1.12,2.66h-.67l-1.12-2.66h0V138h-.81Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M583.54,132.45H587v.79h-2.61v1.63h2.23v.75h-2.23V138h-.81Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M587.31,136a3.79,3.79,0,0,1,.1-1,1.43,1.43,0,0,1,.32-.55,1.33,1.33,0,0,1,.44-.35,1.63,1.63,0,0,1,.72-.16,1.68,1.68,0,0,1,.73.16,1.35,1.35,0,0,1,.42.35,1.33,1.33,0,0,1,.33.55,5.11,5.11,0,0,1,0,1.91,1.51,1.51,0,0,1-.33.56,1,1,0,0,1-.18.17.72.72,0,0,1-.24.16,1.54,1.54,0,0,1-.73.18,1.5,1.5,0,0,1-.72-.18,1.18,1.18,0,0,1-.44-.33,1.64,1.64,0,0,1-.32-.56A3.76,3.76,0,0,1,587.31,136Zm2.38,0a3.09,3.09,0,0,0,0-.62.67.67,0,0,0-.15-.33.53.53,0,0,0-.25-.21.8.8,0,0,0-.36-.08.83.83,0,0,0-.36.08.61.61,0,0,0-.26.21.91.91,0,0,0-.15.33,3,3,0,0,0,0,.61,3,3,0,0,0,0,.6,1,1,0,0,0,.15.34.78.78,0,0,0,.26.2.71.71,0,0,0,.36.09.69.69,0,0,0,.36-.09.65.65,0,0,0,.25-.2.7.7,0,0,0,.15-.34A2.94,2.94,0,0,0,589.69,136Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M591.39,134h.76v.42h0a1.21,1.21,0,0,1,1-.47,1.23,1.23,0,0,1,.8.31l-.56.68a.8.8,0,0,0-.5-.2.7.7,0,0,0-.5.2.8.8,0,0,0-.25.63V138h-.76Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M597.27,135.71l-1.61-3.26h.86l1.14,2.45,1.13-2.45h.86L598,135.7V138h-.77Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M600.23,132.45H601v4.74h2.61V138h-3.42Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M604.54,132.45h1.88a1.81,1.81,0,0,1,1.63.93,1.84,1.84,0,0,1,.25.66c0,.22,0,.62,0,1.17a7.13,7.13,0,0,1-.07,1.25,1.07,1.07,0,0,1-.08.32l-.15.28a2,2,0,0,1-.66.65,1.82,1.82,0,0,1-1,.27h-1.82Zm.82,4.74h1a1.1,1.1,0,0,0,1-.48.9.9,0,0,0,.17-.45,7.65,7.65,0,0,0,0-1,8.51,8.51,0,0,0,0-1,.92.92,0,0,0-.21-.5,1,1,0,0,0-.95-.47h-1Z"/>
+    </g>
+  </g>
+  <polygon class="a9ee986a-b0c5-4c57-b639-710bf051abd3" points="691.5 65.21 696.28 74.89 706.96 76.44 699.23 83.98 701.05 94.62 691.5 89.6 681.95 94.62 683.77 83.98 676.04 76.44 686.72 74.89 691.5 65.21"/>
+  <path class="fc4233f6-07c1-44c6-9e93-bbd902bdea79" d="M423,226.8A293.93,293.93,0,0,1,194.76,41.52l2.65-1c37,97.05,123.63,167.36,226,183.49Z"/>
+  <g>
+    <line class="b2856462-8b80-4cca-9d4c-7aef3f42557d" x1="317.5" y1="54.97" x2="317.5" y2="60.64"/>
+    <line class="bc5adc2c-a0e7-4105-b92d-0cf90699064b" x1="317.5" y1="71.62" x2="317.5" y2="241.81"/>
+    <line class="b2856462-8b80-4cca-9d4c-7aef3f42557d" x1="317.5" y1="247.3" x2="317.5" y2="252.97"/>
+  </g>
+  <polygon class="b87b7d46-2364-4fb2-bdd3-f3f770f7902f" points="215 65.71 210.22 75.39 199.54 76.94 207.27 84.48 205.44 95.12 215 90.1 224.56 95.12 222.73 84.48 230.46 76.94 219.78 75.39 215 65.71"/>
+  <path class="a44091f7-9494-4627-bca5-29cd590bac6b" d="M322.75,192.44a6.42,6.42,0,0,0,6.4-6.39V113.42a6.41,6.41,0,0,1,6.39-6.39h.79c3.51,0,4.36-2,1.87-4.52L321.52,85.83a6.42,6.42,0,0,0-9,0L295.8,102.51c-2.49,2.49-1.64,4.52,1.87,4.52h.79a6.41,6.41,0,0,1,6.39,6.39v72.63a6.42,6.42,0,0,0,6.4,6.39Z"/>
+  <g>
+    <rect class="fc4233f6-07c1-44c6-9e93-bbd902bdea79" x="290.92" y="128.25" width="52.16" height="14.43" rx="6.5"/>
+    <g>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M299.28,132.45h.85l1.22,4.21h0l1.22-4.21h.86L301.67,138H301Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M304.15,132.45h.77l1.53,3.6,1.51-3.6h.77V138h-.81v-3.45h0l-1.12,2.66h-.68L305,134.53h0V138h-.81Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M311.9,132.45h3.42v.79h-2.61v1.63h2.23v.75h-2.23V138h-.81Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M315.68,136a3.38,3.38,0,0,1,.1-1,1.3,1.3,0,0,1,.31-.55,1.45,1.45,0,0,1,.44-.35,1.72,1.72,0,0,1,1.45,0,1.4,1.4,0,0,1,.43.35,1.31,1.31,0,0,1,.32.55,5.11,5.11,0,0,1,0,1.91,1.49,1.49,0,0,1-.32.56.79.79,0,0,1-.19.17.72.72,0,0,1-.24.16,1.55,1.55,0,0,1-1.45,0,1.27,1.27,0,0,1-.44-.33,1.47,1.47,0,0,1-.31-.56A3.35,3.35,0,0,1,315.68,136Zm2.37,0a4.47,4.47,0,0,0,0-.62.91.91,0,0,0-.15-.33.58.58,0,0,0-.25-.21.87.87,0,0,0-.37-.08.86.86,0,0,0-.36.08.67.67,0,0,0-.26.21.89.89,0,0,0-.14.33,2.87,2.87,0,0,0-.05.61,2.83,2.83,0,0,0,.05.6.94.94,0,0,0,.14.34.9.9,0,0,0,.26.2.74.74,0,0,0,.36.09.75.75,0,0,0,.37-.09.74.74,0,0,0,.25-.2,1,1,0,0,0,.15-.34A4.27,4.27,0,0,0,318.05,136Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M319.75,134h.77v.42h0a1.24,1.24,0,0,1,1.79-.16l-.55.68a.82.82,0,0,0-.51-.2.72.72,0,0,0-.5.2.77.77,0,0,0-.24.63V138h-.77Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M325.61,133.19h-1.46v-.74h3.74v.74h-1.47V138h-.81Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M328.59,132.45h1.94a3.08,3.08,0,0,1,.61.06,1.57,1.57,0,0,1,.6.33,1.42,1.42,0,0,1,.41.53,1.74,1.74,0,0,1,.16.79,1.67,1.67,0,0,1-.42,1.11,1.53,1.53,0,0,1-1.26.55H329.4V138h-.81Zm.81,2.58h1.2a.82.82,0,0,0,.68-.29.92.92,0,0,0,.22-.61,1.13,1.13,0,0,0-.09-.47.75.75,0,0,0-.26-.27,1,1,0,0,0-.58-.15H329.4Z"/>
+      <path class="af5218d3-a5ed-4cab-bab3-cd7da0d5c2a7" d="M334.1,133.19h-1.47v-.74h3.75v.74h-1.47V138h-.81Z"/>
+    </g>
+  </g>
+  <text class="bbe47b96-85a2-4bc0-a347-9260e09a41d4" transform="translate(751.82 165) rotate(-90)" style="font-family: Arial, sans-serif;">Yield (YLD)</text>
+  <text class="bbe47b96-85a2-4bc0-a347-9260e09a41d4" transform="translate(158.98 221.76) rotate(-90)" style="font-family: Arial, sans-serif;">Total Production Time (TPT)</text>
+  <text class="bbe47b96-85a2-4bc0-a347-9260e09a41d4" transform="translate(288.88 292.1)" style="font-family: Arial, sans-serif;">Sampling Frequency</text>
+  <line class="ab493b6e-4f16-44ba-b62f-6b2f0ea2e3bb" x1="284" y1="288" x2="274" y2="288"/>
+  <text class="bbe47b96-85a2-4bc0-a347-9260e09a41d4" transform="translate(552.18 292.1)" style="font-family: Arial, sans-serif;">Sampling Frequency</text>
+  <g>
+    <rect class="f358b07b-ee4d-416c-8375-ebbf0b95fbc7" x="670.62" y="286.2" width="12" height="2.83"/>
+    <rect class="f358b07b-ee4d-416c-8375-ebbf0b95fbc7" x="675.2" y="281.61" width="2.83" height="12"/>
+  </g>
+  <text class="b6bf08f6-c832-4611-a7d6-5feaabd29378" transform="translate(773.73 26.44)">Using VM predictions,<tspan x="0" y="14.4">we can reduce</tspan><tspan x="0" y="28.8">quality risks from</tspan><tspan x="0" y="43.2">sampling, and</tspan><tspan x="0" y="57.6">these predictions</tspan><tspan x="0" y="72">can also serve</tspan><tspan x="0" y="86.4">as a reference</tspan><tspan x="0" y="100.8">for R2R control.</tspan></text>
+  <rect class="a9ee986a-b0c5-4c57-b639-710bf051abd3" x="6" y="4.97" width="135" height="145" rx="10.8"/>
+  <text class="b6bf08f6-c832-4611-a7d6-5feaabd29378" transform="translate(21 26.44)">Based on VM<tspan x="0" y="14.4">predictions, we can</tspan><tspan class="b42a4396-8347-426d-ab8e-c5853f526a5f" x="0" y="28.8">reduce sampling</tspan><tspan class="b42a4396-8347-426d-ab8e-c5853f526a5f" x="0" y="43.2">rates</tspan>, <tspan class="b42a4396-8347-426d-ab8e-c5853f526a5f">shorten</tspan><tspan class="b42a4396-8347-426d-ab8e-c5853f526a5f" x="0" y="57.6">inspection wait</tspan><tspan class="b42a4396-8347-426d-ab8e-c5853f526a5f" x="0" y="72">times</tspan>, decrease<tspan x="0" y="86.4">metrology inventory,</tspan><tspan x="0" y="100.8">and </tspan><tspan class="b42a4396-8347-426d-ab8e-c5853f526a5f">improve</tspan><tspan class="b42a4396-8347-426d-ab8e-c5853f526a5f" x="0" y="115.2">production capacity.</tspan></text>
+  <polygon class="a9ee986a-b0c5-4c57-b639-710bf051abd3" points="760.96 43.69 713 71.97 763 54.97 760.96 43.69"/>
+  <polygon class="a9ee986a-b0c5-4c57-b639-710bf051abd3" points="140.04 43.69 194 71.97 138 54.97 140.04 43.69"/>
+  <path class="f358b07b-ee4d-416c-8375-ebbf0b95fbc7" d="M669.5,156a37.33,37.33,0,0,0-20.92,6.37l-14.08-3.87,3.88,14.07A37.5,37.5,0,1,0,669.5,156Z" transform="translate(669, 195) scale(1.06) translate(-669, -195)"/>
+  <text class="bbe47b96-85a2-4bc0-a347-9260e09a41d4" transform="translate(669 195)" style="font-size:10px; font-family: Arial, sans-serif; text-anchor: middle">
+    <tspan x="0" y="-13">Improve Yield</tspan>
+    <tspan x="0" y="-1">at Low</tspan>
+    <tspan x="0" y="11">Sampling Rates</tspan>
+  </text>
+  <path class="fc4233f6-07c1-44c6-9e93-bbd902bdea79" d="M261.62,172.54l3.88-14.07-14.08,3.87a37.51,37.51,0,1,0,10.2,10.2Z" transform="translate(230, 195) scale(1.13) translate(-230, -195)"/>
+  <text class="bbe47b96-85a2-4bc0-a347-9260e09a41d4" transform="translate(230 195)" style="font-size:10px; font-family: Arial, sans-serif; text-anchor: middle">
+    <tspan x="0" y="-9">Boost Capacity</tspan>
+    <tspan x="0" y="3">at High</tspan>
+    <tspan x="0" y="15">Sampling Rates</tspan>
+  </text>
+  <text class="bbe47b96-85a2-4bc0-a347-9260e09a41d4" transform="translate(564.85 51.49)" style="font-family: Arial, sans-serif;">Low Sampling Rate</text>
+  <text class="bbe47b96-85a2-4bc0-a347-9260e09a41d4" transform="translate(292.85 51.49)" style="font-family: Arial, sans-serif;">High Sampling Rate</text>
+  <rect class="ab1e74b2-4d67-45e0-b7bd-70b576bd2feb" x="325" y="8" width="260" height="24" rx="12"/>
+  <text class="adebc6ba-1007-49ea-af7d-e515c1405b70" transform="matrix(1, 0, 0, 1, 335, 24)" style="font-family: Arial, sans-serif; font-size: 10px;">Ultimate Goal: Use VM to improve process &amp; production</text>
+</svg>
