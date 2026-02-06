@@ -13,18 +13,12 @@
 
 ## Launch
 
-### Obtain Image
-
-![Obtain Image](quick_start_images/get_image.png)
-
 ### Start QVM Trial Version
 
 ```bash
-sudo docker load -i combined-backup.tar
-sudo docker run -d --name combined-api -p 5500:5500 -p 9999:7878 combined-api-image:latest
+sudo docker load -i miqvm-trial.tar
+sudo docker compose -f docker-compose-all-in-one.yml up -d
 ```
-
-![Start QVM Trial Version](quick_start_images/docker_run.png)
 
 ## Operation
 
